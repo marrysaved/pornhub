@@ -24,7 +24,7 @@ domain[12] = "https://jmmdh.xyz/?k=";
 domain[13] = "https://xp1024fuli.com/search/";
 domain[14] = "https://18teenpornsex.xyz/video/search?search=";
   
-for(var i=0;i< domain.length*3;i++){
+for(var i=0;i< domain.length*1;i++){
 
 l = Math.random() * domain.length;
 l= Math.floor(l);
