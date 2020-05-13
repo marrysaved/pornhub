@@ -3,7 +3,7 @@ document.writeln( '<a href="https://xxbvideo.com" target="_blank">复仇者淫�
 document.writeln( '<a href="https://ad1.xxbvideo.com" target="_blank">含羞草高清视频</a>');
 document.writeln( '<a href="https://700wav.best" target="_blank">700万AV</a>');
 document.writeln( '<a href="https://800w.bestxfilm.xyz" target="_blank">800万AV</a>');
-document.writeln( '<a href="https://pornhubfreeporn.xyz" target="_blank">Pornhub</a>');
+document.writeln( '<a href="https://pornhdxvideos.xyz" target="_blank">Pornhub</a>');
 document.writeln( '<a href="https://freehdxvideosporn.xyz" target="_blank">Xvideos</a>');
 document.writeln( '<a href="https://xnxxfreeporn.xyz" target="_blank">Xnxx</a>');
 document.writeln( '<a href="https://youjizzfreeporn.xyz" target="_blank">Youjizz</a>');                                                                                                                                         
@@ -41,7 +41,7 @@ domain = new Array();
 
 domain[0] = "https://700wav.best/search/";
 domain[1] = "https://800w.bestxfilm.xyz/?k=";
-domain[2] = "https://pornhubfreeporn.xyz/video/search?search=";
+domain[2] = "https://pornhdxvideos.xyz/video/search?search=";
 domain[3] = "https://pornhubapp.xyz/video/search?search=";
 domain[4] = "https://freehdxvideosporn.xyz/?k=";
 domain[5] = "https://xnxxfreeporn.xyz/search/";
