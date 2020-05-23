@@ -68,4 +68,5 @@ t= Math.floor(t);
 		 
 }
 
-
+ document.writeln( '<a style="color:green">广告合作:marrysaved@gmail.com</a> ');
+	
