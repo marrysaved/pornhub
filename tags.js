@@ -1,5 +1,5 @@
 
-document.writeln( '<a  href="http://jusege.tw" target="_blank">国产高清自拍</a>');
+document.writeln( '<a  href="http://jusege.nz" target="_blank">国产高清自拍</a>');
 document.writeln( '<a  href="http://isiyu.me/share/DY8888/qd052001/01" target="_blank">无码国产av</a>');
 
 document.writeln( '<a  href="https://pornhubapp.xyz/view_video.php?viewkey=ph5ec660be2934f#" target="_blank">520内射小骚逼</a>');
