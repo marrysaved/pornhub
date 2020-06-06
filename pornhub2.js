@@ -14,7 +14,7 @@ domain[2] = "https://pornhdxvideos.xyz/video/search?search=";
 domain[3] = "https://pornhubapp.xyz/video/search?search=";
 domain[4] = "https://freehdxvideosporn.xyz/?k=";
 domain[5] = "https://xnxxfreeporn.xyz/search/";
-domain[6] = "https://youjizzfreeporn.xyz/video/search?search=";
+domain[6] = "https://bestfreeporntube.xyz/video/search?search=";
 domain[7] = "https://qqavjzy.xxbvideo.com/?k=";
 domain[8] = "https://best-xvideos-freeporn.com/?k=";
 domain[9] = "https://xvideoshub.best-xvideos-freeporn.com/video/search?search=";
@@ -45,7 +45,7 @@ document.writeln( '<a href="https://800w.bestxfilm.xyz" target="_blank">800万AV
 document.writeln( '<a href="https://pornhdxvideos.xyz" target="_blank">Pornhub</a>');
 document.writeln( '<a href="https://freehdxvideosporn.xyz" target="_blank">Xvideos</a>');
 document.writeln( '<a href="https://xnxxfreeporn.xyz" target="_blank">Xnxx</a>');
-document.writeln( '<a href="https://youjizzfreeporn.xyz" target="_blank">Youjizz</a>');                                                                                                                                         
+document.writeln( '<a href="https://bestfreeporntube.xyz" target="_blank">Youjizz</a>');                                                                                                                                         
       domain1 = new Array();                                                                                                                               
 domain1[0] =" https://18teenpornsex.xyz";
 domain1[1] ="https://bestfreeporntube.xyz";
