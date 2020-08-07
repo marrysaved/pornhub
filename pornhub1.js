@@ -9,7 +9,7 @@ document.writeln( '<a href="https://xnxx2.gq" target="_blank">Xnxx</a>');
 document.writeln( '<a href="https://bestfreeporntube.xyz" target="_blank">Youjizz</a>');  
 document.writeln( '<a href="https://3some.ml" target="_blank">三人行</a>');
 document.writeln( '<a href="https://ph2020.xyz" target="_blank">洋马视频</a>'); 
-
+document.writeln( '<a href="https://fuck365day.cf/" target="_blank" >牧洋人</a>');  
 
                                                                                                                                        
       domain1 = new Array();                                                                                                                               
